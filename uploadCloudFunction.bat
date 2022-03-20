@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-1glss7hz74438fb3 --n quickstartFunctions --r --project "C:\Users\Sariacxs\WeChatProjects\mutli-media" --report_first --report
